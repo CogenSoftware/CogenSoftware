@@ -1,1 +1,6 @@
-- www.cogen.com.tr
+- COGEN YAZILIM
+- cogen.com.tr
+- Adres: Kuşcağız Mahallesi Esenler Caddesi No: 35 Kat: 4 İç Kapı No : 19 Keçiören / Ankara
+- Telefon: +90 [312] 378 17 18
+- Mobil: +90 [545] 501 27 34
+- Mail: info@cogen.com.tr
