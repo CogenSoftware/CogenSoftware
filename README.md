@@ -1,6 +1,6 @@
 - <b>COGEN YAZILIM</b>
 - Cogen Yazılım, yazılım ve programlama alanlarında web tasarım, özel yazılım, e-ticaret, mobil uygulama, arama motoru optimizasyonu, yazılım ve teknoloji danışmanlığı, altyapı görüntüleme sistemleri ve kurumsal denetim sistemleri alanlarında sizlere hizmet sunmaktadır.
-- cogen.com.tr
+- www.cogen.com.tr
 - Adres: Kuşcağız Mahallesi Esenler Caddesi No: 35 Kat: 4 İç Kapı No : 19 Keçiören / Ankara
 - Telefon: +90 [312] 378 17 18
 - Mobil: +90 [545] 501 27 34
